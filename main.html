@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Cronômetro</title>
+  <link rel="stylesheet" href="main.css">
+</head>
+<body>
+  <div class="container">
+    <h1>Cronômetro Javascript</h1>
+    <p>Aperte "Iniciar" para começar a contagem, "Pausa" para pausar, e "Resetar" para resetar a contagem.</p>
+    <div id="contagem">
+      <div id="horas">00:</div>
+      <div id="minutos">00:</div>
+      <div id="segundos">00</div>
+      <div id="centesimos">00</div>
+    </div>
+  </div>
+
+  <div id="botoes">
+    <input type="button" value="Iniciar" id="iniciar" onclick="iniciar()">
+    <input type="button" value="Pausar" id="pausar" onclick="pausar()">
+    <input type="button" value="Resetar" id="reset" onclick="reset()">
+  </div>
+
+  <script src="main.js"></script>
+</body>
+</html>
