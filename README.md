@@ -1,5 +1,5 @@
 # Cronômetro
-![GitHub All Releases](https://img.shields.io/github/last-commit/Yangerhardt/Alura_Immersion?logo=GitHub)
+![GitHub All Releases](https://img.shields.io/github/last-commit/Yangerhardt/Cronometro?logo=GitHub)
 
 ![](https://github.com/Yangerhardt/Cronometro/blob/main/Animation.gif)
 
