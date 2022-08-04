@@ -6,6 +6,7 @@
 body {
   background-color: var(--light);
   font: normal 18pt Arial;
+  margin-top: 100pt;
 }
 
 .container, #botoes {
